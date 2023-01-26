@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Orgs</string>
+    <string name="fab_text">NOVO PRODUTO</string>
+    <string name="fab_content_desc">Botão para adicionar um Produto</string>
+</resources>
